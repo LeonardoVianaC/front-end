@@ -13,8 +13,16 @@ body {
 
 
 div.artigo{
+    box-sizing: content-box;
     width: 800px;
-    margin 0 auto;
+    margin: 0px auto;
     background-color: grey;
     
+}
+
+.texto1 {
+
+    
+
+
 }
